@@ -1,4 +1,3 @@
-Hacker's Guide to Neural Networks (in Python)
+## Hacker's Guide to Neural Networks (Karpathy)
 
-Work in progress. ETC Jan 2018.
-Python code for [Karpathy's tutorial](http://karpathy.github.io/neuralnets/) + notes + experiments
+Notebook contains python code for [Andrej Karpathy's tutorial](http://karpathy.github.io/neuralnets/) + notes + experiments.
